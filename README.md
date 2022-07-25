@@ -1,8 +1,5 @@
 ### Hi! 👋😊
 
-<!--
-**MonSan436/MonSan436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Mathematics, biomedicine and AI are gonna blow my mind!
 
 - 🔭 I'm currently working on improve my programming and statistics skills
